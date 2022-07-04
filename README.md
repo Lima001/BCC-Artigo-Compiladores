@@ -16,7 +16,9 @@ Códigos e demais artefatos utilizados para a produção do Artigo 'Análise do 
 ### Arquivos Isolados
 
 - **scriptTempoCompilacao.sh:** Script utilizado para executar os testes de compilação e armazenar o tempo em uma pasta chamada Medições (Para conferir os resultados obtidos, sugere-se ler o artigo);
-- 
+
 - **scriptTempoExecucao.sh:** Similar ao arquivo citado anteriormente, porém com propósito de mensurar os tempos de execução;
 
 - **valores.txt:** Arquivo contendo os tamanhos dos arrays usados durante os programas de ordenação. Esse arquivo serve como elemento auxiliar para a execução dos scripts citados anteriormente; 
+
+- **Artigo.pdf:** Artigo ao qual no qual os demais artefatos foram utilizados;
